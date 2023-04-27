@@ -55,7 +55,7 @@ class Card ():
     # }
 
      # hearts and diamonds
-    PRETTY_REDS = [2, 4]
+    PRETTY_REDS = [2]
 
     @staticmethod
     def new(string):
